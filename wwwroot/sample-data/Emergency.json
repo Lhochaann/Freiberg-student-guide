@@ -1,0 +1,17 @@
+[
+    {
+        "Category": "Emergency",
+        "title": "police",
+        "description": "Call the police in case of an emergency."
+    }
+    {
+        "Category": "Emergency",
+        "title": "fire department",
+        "description": "Call the fire department in case of a fire emergency."
+    }
+    {
+        "Category": "Emergency",
+        "title": "ambulance",
+        "description": "Call an ambulance in case of a medical emergency."
+    }
+]
